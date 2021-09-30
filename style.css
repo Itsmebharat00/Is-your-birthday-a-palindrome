@@ -73,10 +73,12 @@ footer p {
   font-size: 1.7rem;
   text-align: center;
   margin: 10px;
+  color: white;
 }
 
 a {
   margin: 10px;
   color: black;
   text-decoration: none;
+  color: white;
 }
